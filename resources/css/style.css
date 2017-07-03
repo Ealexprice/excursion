@@ -15,8 +15,9 @@ h6{
   text-decoration:underline;
 }
 
-body{
-  text-align:center;
+video{
+  width:auto;
+  height:auto;
 }
 p{
   color:gray;
@@ -31,4 +32,5 @@ h3{
 
 body{
   background-color:black;
+  text-align:center;
 }
